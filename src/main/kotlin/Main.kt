@@ -85,3 +85,7 @@ fun sumOfDigits(n: Int){
     }
     return println(d)
 }
+
+fun invertedStaircase(n: Int): Int{
+    return 1
+}
